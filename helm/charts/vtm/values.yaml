@@ -21,8 +21,8 @@ name: vtm
 
 # Which vTM image to run
 vtmImage:
-  repository: pulsesecure/vtm
-  tag: 19.1
+  repository: pulsesecure/vtm:latest
+  tag: latest
   pullPolicy: IfNotPresent
 
 # Credentials for pulling the vTM image

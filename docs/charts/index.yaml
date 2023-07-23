@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   vtm:
   - apiVersion: v1
-    appVersion: "19.1"
+    appVersion: "latest"
     created: 2019-04-18T15:03:33.196238009+01:00
     description: Pulse Secure Virtual Traffic Manager Helm Chart
     digest: 2b08da5029790f1362745ccee94219a81411d2e2a935b6751b0e21ab04c80c4a
